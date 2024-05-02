@@ -63,4 +63,4 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
 K Lakshmi Surya Teja 
-Port Folio : <a href="https://klstportfolio.netlify.app/" style={text-decoration:'none'}>https://klstportfolio.netlify.app/</a>
+Port Folio : https://klstportfolio.netlify.app/
